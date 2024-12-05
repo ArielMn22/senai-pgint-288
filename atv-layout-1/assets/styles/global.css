@@ -1,0 +1,22 @@
+* {
+
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-size: 14px;
+
+} /* Reseta o CSS do navegador */
+
+.cabecalho {
+
+    width: 100vw;
+    height: 80px;
+    background-color: #3750B3;
+
+}
+
+.cabecalho span {
+
+    color: white;
+
+}
